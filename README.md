@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhav639/Leetcode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vaibhav639/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhav639/Leetcode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vaibhav639/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
