@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav639/Leetcode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vaibhav639/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
