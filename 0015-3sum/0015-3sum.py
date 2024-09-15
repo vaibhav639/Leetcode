@@ -1,9 +1,5 @@
-class Solution(object):
-    def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums = sorted(nums)
         res = []
 
@@ -36,6 +32,4 @@ class Solution(object):
         unique_res = [list(triplet) for triplet in set_of_res]
 
         return unique_res
-
-
         
