@@ -1,26 +1,16 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
+    def searchRange(self, nums, target):
         l = len(nums)
+        position = [-1, -1]
+        flag = False
 
-        position = []
-        new_position = []
-        for i in range(l):
-            if nums[i] == target:
-                position.append(i)
+        for x in range(l):
+            if nums[x] == target:
+                if not flag:
+                    position[0] = x
+                    flag = True
+                position[1] = x
 
-        if len(position) == 2:
-            return position
-
-        elif len(position) > 2:
-            new_position.append(position[0])
-            new_position.append(position[-1])
-            return new_position
-
-        elif len(position) == 1:
-            position.append(position[0])
-            return position
-
-        else:
-            return [-1,-1]
+        return position
 
         
