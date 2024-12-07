@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav639/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/vaibhav639/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/vaibhav639/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vaibhav639/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vaibhav639/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vaibhav639/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhav639/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vaibhav639/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vaibhav639/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vaibhav639/Leetcode/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
