@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vaibhav639/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhav639/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/vaibhav639/Leetcode/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/vaibhav639/Leetcode/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vaibhav639/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhav639/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhav639/Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/vaibhav639/Leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vaibhav639/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
