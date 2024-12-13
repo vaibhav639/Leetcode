@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhav639/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vaibhav639/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vaibhav639/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vaibhav639/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/vaibhav639/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhav639/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vaibhav639/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/vaibhav639/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/vaibhav639/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Stack
