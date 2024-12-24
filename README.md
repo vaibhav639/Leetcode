@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaibhav639/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/vaibhav639/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/vaibhav639/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
