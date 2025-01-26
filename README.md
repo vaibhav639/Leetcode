@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaibhav639/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav639/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/vaibhav639/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vaibhav639/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vaibhav639/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhav639/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vaibhav639/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vaibhav639/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vaibhav639/Leetcode/tree/master/0414-third-maximum-number) |
