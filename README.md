@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vaibhav639/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibhav639/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vaibhav639/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vaibhav639/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/vaibhav639/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vaibhav639/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhav639/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vaibhav639/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vaibhav639/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/vaibhav639/Leetcode/tree/master/1013-fibonacci-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vaibhav639/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/vaibhav639/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vaibhav639/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
