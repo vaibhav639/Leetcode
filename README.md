@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibhav639/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/vaibhav639/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/vaibhav639/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vaibhav639/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav639/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/vaibhav639/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vaibhav639/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhav639/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vaibhav639/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vaibhav639/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vaibhav639/Leetcode/tree/master/0078-subsets) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaibhav639/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/vaibhav639/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibhav639/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vaibhav639/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
