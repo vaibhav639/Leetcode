@@ -18,15 +18,9 @@ class Solution:
 
         current = head
 
-        while current:
-            if before:
-                current.val = before[0]
-                before = before[1:]
-                current = current.next
-            else:
-                current.val = after[0]
-                after = after[1:]
-                current = current.next
+        for num in before + after:
+            current.val = num
+            current = current.next
 
         return head
 
