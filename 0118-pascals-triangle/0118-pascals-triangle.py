@@ -1,20 +1,19 @@
-class Solution(object):
-    def generate(self, numRows):
-        """
-        :type numRows: int
-        :rtype: List[List[int]]
-        """
-        triangle = []
-
-        for i in range(numRows):
-            # Start each row with 1
-            row = [1] * (i + 1)
-
-            # Each element (except the first and last) is the sum of two elements above
-            for j in range(1, i):
-                row[j] = triangle[i-1][j-1] + triangle[i-1][j]
-
-            triangle.append(row)
-
-        return triangle
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
+        result = [[1]]
         
+        for _ in range(numRows-1):
+            last = result[-1]
+            emp = []
+            i = 0
+            j = len(last)-1
+    
+            if not emp:
+                emp.append(last[i])
+            while i < j:
+                emp.append(last[i]+last[i+1])
+                i+=1
+            emp.append(last[j])
+            result.append(emp)
+    
+        return result
