@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaibhav639/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/vaibhav639/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/vaibhav639/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaibhav639/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav639/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav639/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vaibhav639/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vaibhav639/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/vaibhav639/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav639/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/vaibhav639/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
