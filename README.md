@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/vaibhav639/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/vaibhav639/Leetcode/tree/master/0724-find-pivot-index) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav639/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vaibhav639/Leetcode/tree/master/0645-set-mismatch) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhav639/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/vaibhav639/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vaibhav639/Leetcode/tree/master/0506-relative-ranks) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
 | ------- |
