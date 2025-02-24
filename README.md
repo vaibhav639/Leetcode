@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaibhav639/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vaibhav639/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/vaibhav639/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/vaibhav639/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaibhav639/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Sliding Window
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/vaibhav639/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/vaibhav639/Leetcode/tree/master/0724-find-pivot-index) |
+| [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhav639/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
