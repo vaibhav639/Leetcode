@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vaibhav639/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vaibhav639/Leetcode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/vaibhav639/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/vaibhav639/Leetcode/tree/master/0645-set-mismatch) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vaibhav639/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
