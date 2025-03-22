@@ -1,14 +1,7 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        j = 0
-        
-        for i in range(1, len(nums)):
-                if nums[i] != nums[j]:
-                    j+=1
-                    nums[j]=nums[i]
-                    
-                
-                    
-        return j + 1
-        
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        unique_nums = sorted(set(nums))  # Extract unique elements & sort (optional)
+    
+        nums[:len(unique_nums)] = unique_nums  # Overwrite first k elements
+        return len(unique_nums) 
         
