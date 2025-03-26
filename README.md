@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vaibhav639/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibhav639/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
