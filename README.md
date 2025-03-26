@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav639/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vaibhav639/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibhav639/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav639/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vaibhav639/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -331,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhav639/Leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
