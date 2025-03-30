@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/vaibhav639/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vaibhav639/Leetcode/tree/master/0724-find-pivot-index) |
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhav639/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav639/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav639/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vaibhav639/Leetcode/tree/master/0645-set-mismatch) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav639/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
