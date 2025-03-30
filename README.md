@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vaibhav639/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/vaibhav639/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/vaibhav639/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaibhav639/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vaibhav639/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
