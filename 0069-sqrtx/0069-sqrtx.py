@@ -1,7 +1,4 @@
-class Solution(object):
-    def mySqrt(self, x):
-        import math
-        
-        y = int(math.sqrt(x))
-        return y
-        
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        sqrt = int(x ** 0.5)
+        return sqrt
