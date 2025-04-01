@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vaibhav639/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaibhav639/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2083-three-divisors](https://github.com/vaibhav639/Leetcode/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav639/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -355,10 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/vaibhav639/Leetcode/tree/master/2083-three-divisors) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/vaibhav639/Leetcode/tree/master/2083-three-divisors) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
