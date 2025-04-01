@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav639/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/vaibhav639/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaibhav639/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2083-three-divisors](https://github.com/vaibhav639/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhav639/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/vaibhav639/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vaibhav639/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
