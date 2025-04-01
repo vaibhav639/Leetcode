@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vaibhav639/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vaibhav639/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vaibhav639/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/vaibhav639/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vaibhav639/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vaibhav639/Leetcode/tree/master/0125-valid-palindrome) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vaibhav639/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vaibhav639/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vaibhav639/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vaibhav639/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/vaibhav639/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/vaibhav639/Leetcode/tree/master/0326-power-of-three) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vaibhav639/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/vaibhav639/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/vaibhav639/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vaibhav639/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vaibhav639/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhav639/Leetcode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/vaibhav639/Leetcode/tree/master/0342-power-of-four) |
