@@ -395,12 +395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Hash Function
 |  |
 | ------- |
@@ -423,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
