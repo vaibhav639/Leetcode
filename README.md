@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav639/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhav639/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vaibhav639/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaibhav639/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhav639/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vaibhav639/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav639/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhav639/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
