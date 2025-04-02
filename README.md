@@ -391,17 +391,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -412,10 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
