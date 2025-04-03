@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vaibhav639/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vaibhav639/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vaibhav639/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Hash Function
 |  |
@@ -426,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav639/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaibhav639/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
