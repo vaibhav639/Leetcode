@@ -4,16 +4,17 @@ class Solution:
 
         minimum = nums[0]
         maximum = nums[0]
-        ans = nums[0]
+        answer = nums[0]
+
         for i in range(1,len(nums)):
-            el = nums[i]
-            c1 = el
-            c2 = nums[i] * minimum
-            c3 = nums[i] * maximum
-    
+            c1 = nums[i]
+            c2 = maximum * c1
+            c3 = minimum * c1
+
             maximum = max(c1,c2,c3)
-            ans = max(ans,maximum)
             minimum = min(c1,c2,c3)
-    
-        return ans
+            answer = max(maximum,answer)
+
+        return answer
+
         
