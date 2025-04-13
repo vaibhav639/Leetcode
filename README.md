@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaibhav639/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/vaibhav639/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaibhav639/Leetcode/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/vaibhav639/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav639/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vaibhav639/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaibhav639/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
