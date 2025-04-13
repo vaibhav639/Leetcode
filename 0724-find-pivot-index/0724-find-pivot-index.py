@@ -1,30 +1,24 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        lsum = []
-        rsum = []
-        totalsum = sum(nums[:])
+        n = len(nums)
 
-        for i in range(len(nums)):
-            if not lsum:
-                lsum.append(0)
-            else:
-                lsum.append(sum(nums[:i]))
-        
-        
-        for i in range(len(nums)):
-            if not rsum:
-                rsum.append(totalsum-nums[0])
-            else:
-                rsum.append(totalsum-sum(nums[:i+1]))
+        left = [0] * n
+        right = [0] * n
 
-        i = 0
-        flag = False
-        while i < len(lsum):
-            if lsum[i]==rsum[i]:
-                flag = True
+        for i in range(1,n):    
+            left[i] = left[i-1] + nums[i-1]
+
+
+        for i in range(n-2,-1,-1):  
+            right[i] = right[i+1] + nums[i+1]
+   
+        flag =  -1
+        i=0
+        while i < n:
+            if left[i] == right[i]:
+                flag = i
                 break
-            i+=1
-        if flag:
-            return i
-        else:
-            return -1
+            else:
+                i+=1
+        
+        return flag
