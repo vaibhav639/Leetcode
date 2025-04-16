@@ -1,11 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagramGroup = defaultdict(list)
+        freq = {}
 
-        for word in strs:
-            sorted_word = "".join(sorted(word))
-            anagramGroup[sorted_word].append(word)
+        for el in strs:
+            sort_el = " ".join(map(str,sorted(el)))
+            freq[sort_el] = []
 
-        return list(anagramGroup.values())
+        for el in strs: 
+            sort_el = " ".join(map(str,sorted(el)))
+            if sort_el in freq:
+                freq[sort_el].append(el)
+
+        result = [val for key,val in freq.items()]
+        return result
 
         
