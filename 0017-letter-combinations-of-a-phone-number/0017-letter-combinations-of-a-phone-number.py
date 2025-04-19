@@ -1,25 +1,19 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
+        if not digits:
+            return []
         lookup = {
-            "2": "abc",
-            "3": "def",
-            "4": "ghi",
-            "5": "jkl",
-            "6": "mno",
-            "7": "pqrs",
-            "8": "tuv",
-            "9": "wxyz"
+        "2": "abc", "3": "def", "4": "ghi", "5": "jkl",
+        "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"
         }
-        
-        if not digits: return []
+        result = []
+        def backtrack(index,path):
+            if index == len(digits):
+                result.append(path)
+                return
 
-        output = [""]
+            for char in lookup[digits[index]]:
+                backtrack(index + 1, path + char)
 
-        for d in digits:
-            temp = []
-            for v in lookup[d]:
-                for o in output:
-                    temp.append(o + v)
-            output = temp
-
-        return output
+        backtrack(0,"")
+        return result
