@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav639/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vaibhav639/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaibhav639/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/vaibhav639/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/vaibhav639/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/vaibhav639/Leetcode/tree/master/0724-find-pivot-index) |
 | [0965-unique-email-addresses](https://github.com/vaibhav639/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vaibhav639/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/vaibhav639/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/vaibhav639/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/vaibhav639/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/vaibhav639/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhav639/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhav639/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vaibhav639/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vaibhav639/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/vaibhav639/Leetcode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibhav639/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhav639/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
