@@ -457,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav639/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav639/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vaibhav639/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
